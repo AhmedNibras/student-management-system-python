@@ -1,0 +1,11 @@
+si2,SC1000,Simon Cambers,False,FC308-Ass 1:30|Ass 2:40|Exam:20,FC315-Ass 1:10|Ass 2:20
+beanie123,SG1000,Steve Gadd,True,FC300-Ass 1:10|Ass 2:20|Presentation:100,FC311-Ass 1:50|Ass 2:70|Exam:100,EXTPRJ-Ass 1:50|Ass 2:70
+aisha123,AK1000,Aisha Kauser,True,FC315-Ass 1:10|Ass 2:20,FC300-Ass 1:30|Ass 2:40|Presentation:-1,FC311-Ass 1:40|Ass 2:50|Exam:60
+hashim123,HA1000,Hashim Alsadiq,True,FC308-Ass 1:40|Ass 2:50|Exam:60,FC315-Ass 1:40|Ass 2:60,EXTPRJ-Ass 1:50|Ass 2:60
+Abdullah123,AG1000,Abdullah,True,FC300-Ass 1:10|Ass 2:20|Presentation:100,FC311-Ass 1:50|Ass 2:70|Exam:100,EXTPRJ-Ass 1:50|Ass 2:70
+Husnain123,HK1000,Husnain Khurshid,True,FC315-Ass 1:10|Ass 2:20,FC300-Ass 1:30|Ass 2:40|Presentation:-1,FC311-Ass 1:40|Ass 2:50|Exam:60
+Ahsan123,A1000,Ahsan Yusuf,True,FC308-Ass 1:40|Ass 2:50|Exam:60,FC315-Ass 1:40|Ass 2:60,EXTPRJ-Ass 1:50|Ass 2:60
+Usama123,UG1000,Usama Ahmed,True,FC300-Ass 1:10|Ass 2:20|Presentation:100,FC311-Ass 1:50|Ass 2:70|Exam:100,EXTPRJ-Ass 1:50|Ass 2:70
+Alvi123,AL1000,Alvi Ahmed,True,FC315-Ass 1:10|Ass 2:20,FC300-Ass 1:30|Ass 2:40|Presentation:-1,FC311-Ass 1:40|Ass 2:50|Exam:60
+Hassan123,HG1000,Hassan Ahmed,True,FC300-Ass 1:10|Ass 2:20|Presentation:100,FC311-Ass 1:50|Ass 2:70|Exam:100,EXTPRJ-Ass 1:50|Ass 2:70
+Hamza123,HK1000,Hamza Ahmed,True,FC315-Ass 1:10|Ass 2:20,FC300-Ass 1:30|Ass 2:40|Presentation:-1,FC311-Ass 1:40|Ass 2:50|Exam:60
